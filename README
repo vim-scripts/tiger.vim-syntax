@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=536
+
+Tiger is a language introduced by andrew Appel in his book(s) "Modern Compiler Implementation in {ML,C,Java}." 
+For further information, go to : "www.cs.princeton.edu/~appel/modern"
+
+This file gives you a "correct" syntax hightlighting when working on Tiger files.
+It is to be used with the associated indentation file.
+
+Look at this screenshot to see which coding style is actually "supported" :
+"http://www.xbsd.org/~flz/pics/shot-tiger.jpg&quot;
